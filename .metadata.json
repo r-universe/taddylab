@@ -1,5 +1,9 @@
 [
   {
+    "package": "distrom",
+    "oncran": true
+  },
+  {
     "package": "gamlr",
     "oncran": true
   }
