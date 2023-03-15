@@ -1,10 +1,10 @@
 [
   {
-    "package": "distrom",
+    "package": "gamlr",
     "oncran": true
   },
   {
-    "package": "gamlr",
+    "package": "distrom",
     "oncran": true
   }
 ]
