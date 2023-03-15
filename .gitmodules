@@ -13,3 +13,13 @@
 	url = https://github.com/taddylab/gamlr
 	shallow = true
 	registered = true
+[submodule "maptpx"]
+	path = maptpx
+	url = https://github.com/taddylab/maptpx
+	shallow = true
+	registered = true
+[submodule "textir"]
+	path = textir
+	url = https://github.com/taddylab/textir
+	shallow = true
+	registered = true
